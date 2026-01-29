@@ -26,11 +26,6 @@ A beautiful, cross-platform expense tracking app for university students built w
 - **📱 Adaptive Design** - Material 3 & Cupertino widgets
 - **💫 Micro-interactions** - Haptic feedback throughout
 
-## 📸 Screenshots
-
-| Home | Analytics | Add Expense | Settings |
-|------|-----------|-------------|----------|
-| ![Home](screenshots/home.png) | ![Analytics](screenshots/analytics.png) | ![Add](screenshots/add.png) | ![Settings](screenshots/settings.png) |
 
 ## 🚀 Getting Started
 
@@ -43,7 +38,8 @@ A beautiful, cross-platform expense tracking app for university students built w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense_tracker.git
+   # Replace with your repository URL
+   git clone https://github.com/YOUR_USERNAME/expense_tracker.git
    cd expense_tracker
    ```
 

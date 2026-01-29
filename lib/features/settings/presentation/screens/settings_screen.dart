@@ -137,6 +137,17 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                   trailing: const Icon(Icons.favorite, color: Colors.red, size: 20),
                   isDarkMode: isDarkMode,
                 ),
+                _buildSettingTile(
+                  icon: Icons.person_outline,
+                  title: 'Made by',
+                  trailing: Text(
+                    'Shaik Mohammad Yunus',
+                    style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                  isDarkMode: isDarkMode,
+                ),
               ],
               isDarkMode: isDarkMode,
             ),
